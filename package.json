@@ -2,8 +2,8 @@
   "name": "exercise",
   "version": "0.1.0",
   "engine": {
-    "node": "12.16.1",
-    "npm": "6.14.4"
+    "node": "16.15.1",
+    "npm": "8.12.1"
   },
   "private": true,
   "dependencies": {
